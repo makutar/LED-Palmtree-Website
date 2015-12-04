@@ -2,12 +2,6 @@
     position: relative;
 }
 
-#myNavbar .nav {
-    position: absolute; 
-    bottom: 0; 
-    right:0;
-}
-
 .navbar-header {
     position: relative;
     z-index: 1000;
@@ -16,4 +10,17 @@
 #logo {
 	height:110px;
 	margin:8px 0px 8px 0px;
+}
+
+#hamburger {
+	position: absolute; 
+    bottom: 2px; 
+    right:0;
+}
+
+@media (min-width: 768px) {
+	#myNavbar .nav {
+    position: absolute; 
+    bottom: 0; 
+    right:0;
 }
