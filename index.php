@@ -26,7 +26,7 @@
      ?>
     <div class="container">
       <div class="row">
-        <div class="col-xs-4">hello
+        <div class="col-xs-4">helloasdasdasfd
         </div>
         <div class="col-xs-6">hello6
         </div>
