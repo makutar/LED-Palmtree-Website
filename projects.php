@@ -21,7 +21,7 @@
   </head>
   <body>
     <?php
-     $page = 'home';
+     $page = 'projects';
      include("header.php"); 
      ?>
     <div class="container">

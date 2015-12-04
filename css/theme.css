@@ -8,8 +8,12 @@
     right:0;
 }
 
+.navbar-header {
+    position: relative;
+    z-index: 1000;
+}
+
 #logo {
-	
 	height:110px;
 	margin:8px 0px 8px 0px;
 }
