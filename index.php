@@ -25,10 +25,60 @@
      include("header.php"); 
      ?>
     <div class="container">
-      <div class="row">
-        <div class="col-xs-4">helloasdasdasfd
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+      
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img src="assets/anaconda_screen.png" alt="Anaconda" class="testCaroselImage">
+          </div>
+      
+          <div class="item">
+            <img src="assets/code_breaker.png" alt="Code Breaker" class="testCaroselImage">
+          </div>
+      
+          <div class="item">
+            <img src="assets/treasure_fusion.png" alt="Treasure Fusion" class="testCaroselImage">
+          </div>
+
         </div>
-        <div class="col-xs-6">hello6
+      
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-body" style="height:200px;">A Basic Panel <br> Also lots of other stydff</div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="panel panel-default">
+            <div class="panel-body">A Basic Panel <br> Also lots of other stydff</div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-body">A Basic Panel <br> Also lots of other stydff</div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-11">
+          <div class="panel panel-default">
+            <div class="panel-body" style="height:150px;">A Basic Panel <br> Also lots of other stydff</div>
+          </div>
         </div>
       </div>
     </div>
