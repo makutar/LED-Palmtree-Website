@@ -26,12 +26,45 @@
      ?>
     <div class="container">
       <div class="row">
-        <div class="col-xs-4">hello
+        <div class="col-sm-12">
+          <div class="panel panel-default orange-light">
+            <div class="panel-body" style="height:300px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p> 
+            </div>
+          </div>
         </div>
-        <div class="col-xs-6">hello6
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default blue-dark">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="panel panel-default blue-light">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+
+    
+
+
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

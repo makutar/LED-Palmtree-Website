@@ -1,3 +1,7 @@
+body {
+    background-color: #f0f0f0;
+}
+
 #myNavbar {
     position: relative;
 }
@@ -18,10 +22,42 @@
     right:0;
 }
 
+.orange-light {
+    background-color: #ffbb43;
+}
+
+.orange-light h2 {
+    color: blue;
+}
+.orange-light p {
+    color: white;
+}
+.orange-dark {
+    background-color: #a86f13;
+    color: white;
+}
+
+.green-light {
+    background-color: #51e558;
+}
+
+.green-dark {
+    background-color: #2a7a1f;
+    color: white;
+}
+
+.blue-light {
+    background-color: #4aadff;
+}
+
+.blue-dark {
+    background-color: #195daf;
+    color: white;
+}
+
 @media (min-width: 768px) {
-	#myNavbar .nav {
+    #myNavbar .nav {
     position: absolute; 
     bottom: 0; 
     right:0;
 }
-
