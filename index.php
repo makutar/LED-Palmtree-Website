@@ -25,7 +25,7 @@
      include("header.php"); 
      ?>
     <div class="container">
-      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel" >
         <!-- Indicators -->
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -36,15 +36,15 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img src="assets/anaconda_screen.png" alt="Anaconda" class="testCaroselImage">
+            <img src="assets/anaconda_screen.png" alt="Anaconda" class="carouselImage">
           </div>
       
           <div class="item">
-            <img src="assets/code_breaker.png" alt="Code Breaker" class="testCaroselImage">
+            <img src="assets/code_breaker.png" alt="Code Breaker" class="carouselImage">
           </div>
       
           <div class="item">
-            <img src="assets/treasure_fusion.png" alt="Treasure Fusion" class="testCaroselImage">
+            <img src="assets/treasure_fusion.png" alt="Treasure Fusion" class="carouselImage">
           </div>
 
         </div>
@@ -82,6 +82,9 @@
         </div>
       </div>
     </div>
+    <?php
+      include("footer.php"); 
+     ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
