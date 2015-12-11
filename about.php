@@ -27,8 +27,8 @@
     <div class="container contents">
       <div class="row">
         <div class="col-sm-12">
-          <div class="panel panel-default blue-light box-shadow--2dp" style="min-height: 260px;">
-            <div class="panel-body" >
+          <div class="panel panel-default blue-light box-shadow--2dp">
+            <div class="panel-body no-top-padding" >
               <h1>About</h1>
                 <p>LEDPalmtree is a Melbourne/Geelong based independent design studio consisting of two brothers, Lachlan and Josh Smith.</p>
                 <p>Avid gamers from an early age, there was always a new Flash game in the works at LEDPalmtree HQ. Nowadays they have broadened their sights and are currently working with web development, native android applications and have a new game in the works.</p>
@@ -55,7 +55,7 @@
         <div class="col-sm-6">
           <div class="flat-panel box-shadow--2dp" style="min-height: 700px;">
             <div class="panel-body watch">
-              <img src="assets\tony-abbott-square.jpg" class="img-responsive img-circle center-block" style="width:65%;">
+              <img src="assets\tony-abbott-square-2.jpg" class="img-responsive img-circle center-block" style="width:65%;">
               <h1 align="center">Joshua Smith &ndash; <span class="green-text"> &#39;<em>Makutar&#39;</em></span></h1>              
               <h3 align="center">Art - Graphic Design &ndash; Game mechanics</h3>              
               <p>&nbsp;</p>
@@ -78,17 +78,5 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script>
-    function bootstrap_equalizer() {
-      $(".equalizer").each(function() {
-        var heights = $(this).find(".watch").map(function() {
-          return $(this).height();
-        }).get(),
-    
-        maxHeight = Math.max.apply(null, heights);
-    
-        $(this).find(".watch").height(maxHeight);
-      });
-    }
-    </script>
   </body>
 </html>

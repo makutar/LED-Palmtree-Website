@@ -8,6 +8,14 @@ p {
     font-size: 1em;
 }
 
+.panel-body {
+    padding: 30px;
+}
+
+.no-top-padding{
+    padding-top: 5px;
+}
+
 #myNavbar {
     position: relative;
 }
@@ -19,7 +27,7 @@ p {
 
 #logo {
 	height:110px;
-	margin:8px 0px 8px 0px;
+	margin:19px 0px 0px 0px;
 }
 
 #hamburger {
@@ -135,7 +143,7 @@ p {
 
 .contents {
     position: relative;
-    top: -93px;
+    top: -85px;
 }
 
 .box-shadow--2dp {
