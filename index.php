@@ -24,7 +24,7 @@
      $page = 'home';
      include("header.php"); 
      ?>
-    <div class="container">
+    <div class="container contents">
       <div id="myCarousel" class="carousel slide" data-ride="carousel" >
         <!-- Indicators -->
         <ol class="carousel-indicators">
