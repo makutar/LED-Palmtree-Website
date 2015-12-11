@@ -42,7 +42,7 @@
         <div class="col-sm-6 watch">
           <div class="flat-panel box-shadow--2dp" style="min-height: 700px;">
             <div class="panel-body">
-            <img src="assets\tony-abbott-square.jpg" class="img-responsive img-circle center-block" style="width:65%;">
+            <img src="assets/tony-abbott-square.jpg" class="img-responsive img-circle center-block" style="width:65%;">
               <h1 align="center">Lachlan Smith &ndash;<span class="orange-text"> &#39;<em>LockSmith47&#39;</em></span></h1>              
               <h3 align="center">Lead Programmer &ndash; Game Design</h3>              
               <p>&nbsp;</p>              

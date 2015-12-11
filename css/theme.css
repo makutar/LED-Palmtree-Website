@@ -1,5 +1,6 @@
 body {
     background-color: #f0f0f0;
+    background-image: url("../assets/website-designs-06.png");
     font-family: "Trebuchet MS";
     font-size: 150%
 }
@@ -134,11 +135,30 @@ p {
 
 #navbarGradient {
     height: 240px;
+    position: relative;
     background: #212121; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(#212121, #6e6e6e); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(#212121, #6e6e6e); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#212121, #6e6e6e); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#212121, #6e6e6e); /* Standard syntax */
+}
+
+.navbar {
+    position: absolute;
+    width:100%;
+    left:0;
+    top:0;
+    z-index: 2000;
+
+}
+
+.nav {
+    background-color: #222;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color: #333333;
 }
 
 .contents {
@@ -170,4 +190,7 @@ p {
     position: absolute; 
     bottom: 0; 
     right:0;
+    background-color: transparent;
+    border-color: transparent;
+    }
 }

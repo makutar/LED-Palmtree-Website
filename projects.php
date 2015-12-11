@@ -27,7 +27,7 @@
     <div class="container contents">
       <div class="row">
         <div class="col-sm-12">
-          <div class="panel panel-default orange-light">
+          <div class="panel panel-default orange-light box-shadow--6dp">
             <div class="panel-body" style="height:300px;">
               <h4>About Lach (Ag43t47)</h4>
               <h2>About Lach (Ag43t47)</h2>  
@@ -39,7 +39,7 @@
       </div>
       <div class="row">
         <div class="col-sm-6">
-          <div class="panel panel-default orange-dark">
+          <div class="panel panel-default orange-dark box-shadow--6dp">
             <div class="panel-body" style="height:600px;">
               <h4>About Lach (Ag43t47)</h4>
               <h2>About Lach (Ag43t47)</h2>  
@@ -49,7 +49,7 @@
           </div>
         </div>
         <div class="col-sm-6">
-          <div class="blue-light box-shadow--8dp">
+          <div class="blue-light box-shadow--6dp">
             <div class="panel-body" style="height:600px;">
               <h4>About Lach (Ag43t47)</h4>
               <h2>About Lach (Ag43t47)</h2>  
