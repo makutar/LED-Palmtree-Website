@@ -24,11 +24,95 @@
      $page = 'projects';
      include("header.php"); 
      ?>
-    <div class="container">
+    <div class="container contents">
       <div class="row">
-        <div class="col-xs-4">hello
+        <div class="col-sm-12">
+          <div class="panel panel-default orange-light">
+            <div class="panel-body" style="height:300px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p> 
+            </div>
+          </div>
         </div>
-        <div class="col-xs-6">hello6
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default orange-dark">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="blue-light box-shadow--8dp">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="panel panel-default blue-dark">
+            <div class="panel-body" style="height:300px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p> 
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default green-light">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="green-dark box-shadow--8dp">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="panel panel-default white">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>            
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="grey-dark box-shadow--8dp">
+            <div class="panel-body" style="height:600px;">
+              <h4>About Lach (Ag43t47)</h4>
+              <h2>About Lach (Ag43t47)</h2>  
+              <h3>About Lach (Ag43t47)</h3>
+              <p> argle bargle in my snargle</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

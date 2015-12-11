@@ -1,5 +1,11 @@
 body {
     background-color: #f0f0f0;
+    font-family: "Trebuchet MS";
+    font-size: 150%
+}
+
+p {
+    font-size: 1em;
 }
 
 #myNavbar {
@@ -22,39 +28,78 @@ body {
     right:0;
 }
 
-.orange-light {
-    background-color: #ffbb43;
+.flat-panel {
+    background-color: white;
+    margin-bottom: 20px;
 }
 
-.orange-light h2 {
-    color: blue;
+.orange-light {
+    background-color: #ffbb43;
+    border-color: #ffbb43;
+    color: #845209;
 }
+
 .orange-light p {
     color: white;
 }
+
 .orange-dark {
     background-color: #a86f13;
+    border-color: #a86f13;
+    color: #ffbc50;
+}
+
+.orange-dark p {
     color: white;
 }
 
 .green-light {
     background-color: #51e558;
+    border-color: #51e558;
+    color: #2a7a1f;
 }
 
 .green-dark {
     background-color: #2a7a1f;
+    border-color: #2a7a1f;
     color: white;
+}
+
+.green-dark p {
+    color: #51e558;
 }
 
 .blue-light {
     background-color: #4aadff;
+    border-color: #4aadff;
+    color :#195daf;
+}
+
+.blue-light p {
+    color : white;
 }
 
 .blue-dark {
     background-color: #195daf;
+    border-color: #195daf;
+    color: #78c8ff;
+}
+
+.blue-dark p {
     color: white;
 }
 
+.orange-text{
+    color: #ffa300;
+}
+
+.blue-text{
+    color :#195daf
+}
+
+.green-text{
+    color: #00cc33;    
+}
 .carouselImage {
     margin: 0 auto;
     height: 100%;
