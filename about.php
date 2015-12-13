@@ -27,40 +27,41 @@
     <div class="container contents">
       <div class="row">
         <div class="col-sm-12">
-          <div class="panel panel-default blue-light box-shadow--2dp">
-            <div class="panel-body no-top-padding" >
-              <h1>About</h1>
+          <div class="flat-panel blue-light">
+            <div class="panel-body no-top-padding" style="text-align:center;">
+              <h1 class="bold">About Us</h1>
+              <hr>
                 <p>LEDPalmtree is a Melbourne/Geelong based independent design studio consisting of two brothers, Lachlan and Josh Smith.</p>
                 <p>Avid gamers from an early age, there was always a new Flash game in the works at LEDPalmtree HQ. Nowadays they have broadened their sights and are currently working with web development, native android applications and have a new game in the works.</p>
                 <p>Recently LEDPalmtree, in collaboration with Will Donohoe and Rob Koch, attended UniHack 2015 and received the &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
-                <p>&nbsp;</p>
+
             </div>
           </div>
         </div>
       </div>
       <div class="row equalizer">
         <div class="col-sm-6 watch">
-          <div class="flat-panel box-shadow--2dp" style="min-height: 700px;">
+          <div class="flat-panel" style="min-height: 700px;">
             <div class="panel-body">
             <img src="assets/tony-abbott-square.jpg" class="img-responsive img-circle center-block" style="width:65%;">
-              <h1 align="center">Lachlan Smith &ndash;<span class="orange-text"> &#39;<em>LockSmith47&#39;</em></span></h1>              
-              <h3 align="center">Lead Programmer &ndash; Game Design</h3>              
-              <p>&nbsp;</p>              
+              <h2 align="center" class="uppercase line-height-large">Lachlan Smith<br><span align="center" class="orange-text less-text-margin"> &#39;<em>LockSmith47&#39;</em></span></h2>              
+              <h3 align="center">Lead Programmer &ndash; Game Design</h3>
+              <hr>                           
               <p>Lachlan is currently studying Electrical Engineering and Computer Science at Monash University. When not laboriously studying he enjoys heading down to the surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
-              <p>&nbsp;</p>
+              <br>
               <h4 align="center">Likes &ndash; Tau Cannon</h4>  
             </div>
           </div>
         </div>
         <div class="col-sm-6">
-          <div class="flat-panel box-shadow--2dp" style="min-height: 700px;">
+          <div class="flat-panel" style="min-height: 700px;">
             <div class="panel-body watch">
-              <img src="assets\tony-abbott-square-2.jpg" class="img-responsive img-circle center-block" style="width:65%;">
-              <h1 align="center">Joshua Smith &ndash; <span class="green-text"> &#39;<em>Makutar&#39;</em></span></h1>              
-              <h3 align="center">Art - Graphic Design &ndash; Game mechanics</h3>              
-              <p>&nbsp;</p>
+              <img src="assets/tony-abbott-square-2.jpg" class="img-responsive img-circle center-block" style="width:65%;">
+              <h2 align="center" class="uppercase line-height-large">Joshua Smith<br><span class="green-text"> &#39;<em>Makutar&#39;</em></span></h2>              
+              <h3 align="center">Art - Graphic Design &ndash; Game mechanics</h3>
+              <hr>              
               <p style="text-align: justify;">Josh is currently studying Mechanical engineering and Industrial design at Monash University. &nbsp;He is always trying his hand at some creative project, often seen in some form of woodwork, visual arts or cello in addition to digital media. For recreation Josh enjoys working his way through a steady backlog of steam games or playing tennis.</p>              
-              <p>&nbsp;</p>              
+              <br>              
               <h4 align="center">Likes - Peripherals, Cold Drip &nbsp; Dislikes:</h4>
             </div>
           </div>
