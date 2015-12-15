@@ -32,6 +32,22 @@ p {
     font-weight: bold;
 }
 
+.bottom-right {
+    vertical-align: -10%;
+    float: right;
+}
+
+.play-div {
+    height:50px;
+}
+
+.play-button {
+    float:right;
+    height:50px;
+    width:120px;
+    border-radius: 0;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -126,7 +142,13 @@ p {
 }
 
 .blue-light p {
+    color : white
+}
+
+.black {
     color : white;
+    background-color: black;
+    border-color: black;
 }
 
 #Us{
@@ -194,6 +216,16 @@ p {
     background: linear-gradient(#212121, #6e6e6e); /* Standard syntax */
 }
 
+.playGradient {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, white, #4aadff); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, white, #4aadff); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, white, #4aadff); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, white, #4aadff); /* Standard syntax */
+  height: 100%;
+  margin-left: 40%;
+}
+
 .navbar {
     position: absolute;
     width:100%;
@@ -248,4 +280,8 @@ p {
 
 .thumbnail-container {
     padding-left: 0;
+}
+
+.project-panel {
+    padding-bottom: 0px;
 }
