@@ -70,7 +70,7 @@
                 <h2 class="uppercase zero-text-margin blue-text">Tank Game</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Feb 2014</h3>
-                <p> This small flash experiment was inspired by the Wii Tank game on Wii Play. </p>
+                <p> This small flash experimetn was inspired by the Wii Tank game on Wii Play. </p>
               </div>
             </div>
           </div>

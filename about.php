@@ -28,13 +28,14 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="flat-panel blue-light">
-            <div class="panel-body no-top-padding" style="text-align:center;">
-              <h1 class="bold">About Us</h1>
+            <div class="panel-body percent-padding" style="text-align:center;">
+              <h2 class="bold uppercase zero-text-margin">About Us</h2>
               <hr>
+              <div style="text-align:left;">
                 <p>LEDPalmtree is a Melbourne/Geelong based independent design studio consisting of two brothers, Lachlan and Josh Smith.</p>
                 <p>Avid gamers from an early age, there was always a new Flash game in the works at LEDPalmtree HQ. Nowadays they have broadened their sights and are currently working with web development, native android applications and have a new game in the works.</p>
                 <p>Recently LEDPalmtree, in collaboration with Will Donohoe and Rob Koch, attended UniHack 2015 and received the &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
-
+                </div>
             </div>
           </div>
         </div>
@@ -44,7 +45,7 @@
           <div class="flat-panel" style="min-height: 700px;">
             <div class="panel-body">
             <img src="assets/tony-abbott-square.jpg" class="img-responsive img-circle center-block" style="width:65%;">
-              <h2 align="center" class="uppercase line-height-large">Lachlan Smith<br><span align="center" class="orange-text less-text-margin"> &#39;<em>LockSmith47&#39;</em></span></h2>              
+              <h2 align="center" class="uppercase line-height-large">Lachlan Smith<br><span class="orange-text"> &#39;<em>LockSmith47&#39;</em></span></h2>              
               <h3 align="center">Lead Programmer &ndash; Game Design</h3>
               <hr>                           
               <p>Lachlan is currently studying Electrical Engineering and Computer Science at Monash University. When not laboriously studying he enjoys heading down to the surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
