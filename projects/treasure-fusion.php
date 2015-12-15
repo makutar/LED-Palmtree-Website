@@ -30,23 +30,6 @@
           <div class="flat-panel">
             <div class="panel-body">
               <div class="col-sm-4 thumbnail-container">
-                <img src="assets/anaconda_screen.png" style="width:100%;">
-              </div>
-              <div class="col-sm-8">
-                <h2 class="uppercase zero-text-margin green-text">Anaconda</h2>
-                <hr class="margin-10">  
-                <h3 class="zero-text-margin grey-text">Dec 2014</h3>
-                <p> Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> 
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="flat-panel">
-            <div class="panel-body">
-              <div class="col-sm-4 thumbnail-container">
                 <img src="assets/treasure_fusion.png" style="width:100%;">
               </div>
               <div class="col-sm-8">
@@ -59,23 +42,6 @@
           </div>
         </div>
       </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="flat-panel">
-            <div class="panel-body">
-              <div class="col-sm-4 thumbnail-container">
-                <img src="assets/tank_game.png" style="width:100%;">
-              </div>
-              <div class="col-sm-8">
-                <h2 class="uppercase zero-text-margin blue-text">Tank Game</h2>
-                <hr class="margin-10">  
-                <h3 class="zero-text-margin grey-text">Feb 2014</h3>
-                <p> This small flash experimetn was inspired by the Wii Tank game on Wii Play. </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>      
     </div>
 
     <?php

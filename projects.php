@@ -33,7 +33,7 @@
                 <img src="assets/anaconda_screen.png" style="width:100%;">
               </div>
               <div class="col-sm-8 .row-eq-height">
-                <h2 class="uppercase zero-text-margin green-text">Anaconda</h2>
+                <h2 class="uppercase green-text project-title">Anaconda</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Dec 2014</h3>
                 <p> Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
@@ -57,7 +57,7 @@
                 <img src="assets/treasure_fusion.png" style="width:100%;">
               </div>
               <div class="col-sm-8 .row-eq-height">
-                <h2 class="uppercase zero-text-margin orange-text">Treasure Fusion</h2>
+                <h2 class="uppercase orange-text project-title">Treasure Fusion</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">March 2014</h3>
                 <p> Unlock new gems and challenge your friends in this addictive new puzzle game! Inspired by 2048, combine similar treasures to create new combinations!</p>
@@ -65,7 +65,9 @@
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <button type="button" class="btn btn-primary play-button">Play</button> 
+                <form role="form" action="projects/treasure-fusion.php" method="get">
+                <button type="submit" class="btn btn-primary play-button">Play</button> 
+              </form> 
               </div>
             </div>
           </div>
@@ -79,7 +81,7 @@
                 <img src="assets/tank_game.png" style="width:100%;">
               </div>
               <div class="col-sm-8 .row-eq-height">
-                <h2 class="uppercase zero-text-margin blue-text">Tank Game</h2>
+                <h2 class="uppercase blue-text project-title">Tank Game</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Feb 2014</h3>
                 <p> This small flash experiment was inspired by the Wii Tank game on Wii Play. </p>
@@ -87,7 +89,33 @@
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <button type="button" class="btn btn-primary play-button">Play</button> 
+                <form role="form" action="projects/tank-game.php" method="get">
+                <button type="submit" class="btn btn-primary play-button">Play</button> 
+              </form> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> 
+      <div class="row" >
+        <div class="col-sm-12">
+          <div class="flat-panel">
+            <div class="panel-body project-panel">
+              <div class="col-sm-4 thumbnail-container .row-eq-height">
+                <img src="assets/tank_game.png" style="width:100%;">
+              </div>
+              <div class="col-sm-8 .row-eq-height">
+                <h2 class="uppercase blue-text project-title">Tank Game</h2>
+                <hr class="margin-10">  
+                <h3 class="zero-text-margin grey-text">Feb 2014</h3>
+                <p> This small flash experiment was inspired by the Wii Tank game on Wii Play. </p>
+              </div>  
+            </div>
+             <div class="play-div">
+              <div class= "playGradient">
+                <form role="form" action="projects/tank-game.php" method="get">
+                <button type="submit" class="btn btn-primary play-button">Play</button> 
+              </form> 
               </div>
             </div>
           </div>

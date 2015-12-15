@@ -3,7 +3,7 @@
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-      <a href="/LED-Palmtree-Website/index.php" class="pull-left"><img src="assets/Logo.png" id="logo"></a>
+      <a href="/LED-Palmtree-Website/index.php" class="pull-left"><img src="/LED-Palmtree-Website/assets/Logo.png" id="logo"></a>
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false" id='hamburger'>
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
