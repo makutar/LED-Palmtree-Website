@@ -30,11 +30,11 @@
           <div class="flat-panel">
             <div class="panel-body flash-styling">
 
-              <object class="center-block" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="600" height="510" id="../assets/anaconda" align="middle">
-                  <param name="movie" value="../assets/anaconda.swf"/>
+              <object class="center-block" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="650" id="../assets/treasure-fusion-ledsite" align="middle">
+                  <param name="movie" value="../assets/treasure-fusion-ledsite.swf"/>
                   <!--[if !IE]>-->
-                  <object type="application/x-shockwave-flash" data="../assets/anaconda.swf" width="600" height="510">
-                      <param name="movie" value="../assets/anaconda.swf"/>
+                  <object type="application/x-shockwave-flash" data="../assets/treasure-fusion-ledsite.swf" width="500" height="650">
+                      <param name="movie" value="../assets/treasure-fusion-ledsite.swf"/>
                   <!--<![endif]-->
                       <a href="http://www.adobe.com/go/getflash">
                           <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"/>
