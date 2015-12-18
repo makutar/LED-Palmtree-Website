@@ -241,6 +241,26 @@ p {
     background-color: #333333;
 }
 
+.art-dropdown {
+    float:left;
+}
+
+.dropdown-menu li{
+    text-transform: none;
+}
+
+#josh-portfolio{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    white-space: nowrap;
+}
+
+#portfolio-divider {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
 .contents {
     position: relative;
     margin-top: -85px;

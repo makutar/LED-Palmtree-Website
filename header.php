@@ -19,17 +19,15 @@
         <li class="<?php echo ($page == "projects" ? "active" : "")?>"><a href="/LED-Palmtree-Website/projects.php">Projects</a></li>
         <li class="<?php echo ($page == "blog" ? "active" : "")?>"><a href="/LED-Palmtree-Website/blog.php">Blog</a></li>
         <li class="<?php echo ($page == "about" ? "active" : "")?>"><a href="/LED-Palmtree-Website/about.php">About</a></li>
-        <li class="<?php echo ($page == "contact" ? "active" : "")?>"><a href="/LED-Palmtree-Website/contact.php">Contact Us</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
+          <a href="#" class="art-dropdown">Design</a>
+          <a href="#" class="dropdown-toggle art-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
+            <li><div id="josh-portfolio">Josh's Portfolio</div></li>
+            <li role="separator" class="divider" id="portfolio-divider"></li>
+            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Art</a></li>
+            <li><a href="#">Woodwork</a></li>
           </ul>
         </li>
       </ul>
