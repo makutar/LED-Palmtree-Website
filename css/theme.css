@@ -37,8 +37,14 @@ p {
     float: right;
 }
 
+.flash-styling {
+    background-color: #212121;
 
+}
 
+.project-text {
+    min-height: 270px;
+}
 .uppercase {
     text-transform: uppercase;
 }

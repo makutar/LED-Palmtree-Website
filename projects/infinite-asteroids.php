@@ -30,11 +30,11 @@
           <div class="flat-panel">
             <div class="panel-body flash-styling">
 
-              <object class="center-block" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="600" height="510" id="../assets/anaconda" align="middle">
-                  <param name="movie" value="../assets/anaconda.swf"/>
+              <object class="center-block" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="825" height="600" id="../assets/anaconda" align="middle">
+                  <param name="movie" value="../assets/Infinite Asteroids.swf"/>
                   <!--[if !IE]>-->
-                  <object type="application/x-shockwave-flash" data="../assets/anaconda.swf" width="600" height="510">
-                      <param name="movie" value="../assets/anaconda.swf"/>
+                  <object type="application/x-shockwave-flash" data="../assets/Infinite Asteroids.swf" width="825" height="600">
+                      <param name="movie" value="../assets/Infinite Asteroids.swf"/>
                   <!--<![endif]-->
                       <a href="http://www.adobe.com/go/getflash">
                           <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player"/>
@@ -43,16 +43,18 @@
                   </object>
                   <!--<![endif]-->
               </object>
-              </div>
+
+            </div>
               <div class="panel-body project-text">
                 <div class="col-sm-8 " >
-                <h2 class="uppercase zero-text-margin green-text">Anaconda</h2>
+                <h2 class="uppercase zero-text-margin green-text">Infinite Asteroids</h2>
                 <hr class="margin-10">  
-                <h3 class="zero-text-margin grey-text">Dec 2014</h3>
-                <p> Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
+                <h3 class="zero-text-margin grey-text">July 2009</h3>
+                <p>A modern take on the classic arcade game, testing a new particle engine.</p>
                 </div>
-            </div>
+              </div>
           </div>
+          
         </div>
       </div> 
     </div>

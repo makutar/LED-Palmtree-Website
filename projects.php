@@ -30,13 +30,35 @@
           <div class="flat-panel">
             <div class="panel-body project-panel">
               <div class="col-sm-4 thumbnail-container .row-eq-height">
+                <img src="assets/code-breaker.png" style="width:100%;">
+              </div>
+              <div class="col-sm-8 .row-eq-height">
+                <h2 class="uppercase blue-text project-title">Codebreaker</h2>
+                <hr class="margin-10">  
+                <h3 class="zero-text-margin grey-text">Sep~ 2015</h3>
+                <p>Codebreaker is a phone application which solves codeword puzzles simply by looking at a photo. A prototype was created at UniHack 2015i in Kivy, and we are now working on producing a full native Android app.</p>
+              </div>  
+            </div>
+            <div class="play-div">
+              <div class= "playGradient">
+              </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> 
+      <div class="row" >
+        <div class="col-sm-12">
+          <div class="flat-panel">
+            <div class="panel-body project-panel">
+              <div class="col-sm-4 thumbnail-container .row-eq-height">
                 <img src="assets/anaconda_screen.png" style="width:100%;">
               </div>
               <div class="col-sm-8 .row-eq-height">
                 <h2 class="uppercase green-text project-title">Anaconda</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Dec 2014</h3>
-                <p> Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
+                <p>Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
               </div>  
             </div>
             <div class="play-div">
@@ -60,7 +82,7 @@
                 <h2 class="uppercase orange-text project-title">Treasure Fusion</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">March 2014</h3>
-                <p> Unlock new gems and challenge your friends in this addictive new puzzle game! Inspired by 2048, combine similar treasures to create new combinations!</p>
+                <p>Unlock new gems and challenge your friends in this addictive new puzzle game! Inspired by 2048, combine similar treasures to create new combinations!</p>
               </div>  
             </div>
              <div class="play-div">
@@ -84,7 +106,7 @@
                 <h2 class="uppercase blue-text project-title">Tank Game</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Feb 2014</h3>
-                <p> This small flash experiment was inspired by the Wii Tank game on Wii Play. </p>
+                <p>This small flash experiment was inspired by the Wii Tank game on Wii Play.</p>
               </div>  
             </div>
              <div class="play-div">
@@ -102,18 +124,18 @@
           <div class="flat-panel">
             <div class="panel-body project-panel">
               <div class="col-sm-4 thumbnail-container .row-eq-height">
-                <img src="assets/tank_game.png" style="width:100%;">
+                <img src="assets/Asteroids.png" style="width:100%;">
               </div>
               <div class="col-sm-8 .row-eq-height">
-                <h2 class="uppercase blue-text project-title">Tank Game</h2>
+                <h2 class="uppercase green-text project-title">Infinite Asteroids</h2>
                 <hr class="margin-10">  
-                <h3 class="zero-text-margin grey-text">Feb 2014</h3>
-                <p> This small flash experiment was inspired by the Wii Tank game on Wii Play. </p>
+                <h3 class="zero-text-margin grey-text">July 2009</h3>
+                <p>A modern take on the classic arcade game, testing a new particle engine.</p>
               </div>  
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <form role="form" action="projects/tank-game.php" method="get">
+                <form role="form" action="projects/infinite-asteroids.php" method="get">
                 <button type="submit" class="btn btn-primary play-button">Play</button> 
               </form> 
               </div>
