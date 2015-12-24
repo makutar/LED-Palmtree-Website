@@ -40,7 +40,7 @@
           </div>
         </div>
       </div>
-      <div class="row equalizer">
+      <div class="row">
         <div class="col-sm-6 watch">
           <div class="flat-panel" style="min-height: 700px;">
             <div class="panel-body">
@@ -64,6 +64,21 @@
               <p style="text-align: justify;">Josh is currently studying Mechanical engineering and Industrial design at Monash University. &nbsp;He is always trying his hand at some creative project, often seen in some form of woodwork, visual arts or cello in addition to digital media. For recreation Josh enjoys working his way through a steady backlog of steam games or playing tennis.</p>              
               <br>              
               <h4 align="center">Likes - Peripherals, Cold Drip &nbsp; Dislikes:</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="flat-panel blue-light">
+            <div class="panel-body percent-padding" style="text-align:center;">
+              <h2 class="bold uppercase zero-text-margin">Contact Us</h2>
+              <hr>
+              <div style="text-align:center;">
+                <p>Send us an email directly at: 
+                  <a href="mailto:ledpalmtree@gmail.com" target="_top">ledpalmtree@gmail.com</a>
+                </p>
+              </div>
             </div>
           </div>
         </div>
