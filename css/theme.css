@@ -185,17 +185,28 @@ p {
 
 .footer {
     margin-top: 20px;
-    height: 100px;
+    height: 150px;
     position:relative;
     background-color: #212121;
     color: #9d9d9d;
 }
 
+.icon {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    padding: 15px;
+}
+.icon img {
+    height: 25px;
+    margin: 10px 0px 10px 15px;
+}
+
 #copyright {
     position:absolute;
-    bottom:0px;
+    bottom:10px;
     left:0px;
-    padding: 12px;
+    padding: 15px;
 }
 
 .navbar-inverse {

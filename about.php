@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>About</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/theme.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -48,7 +48,7 @@
               <h2 align="center" class="uppercase line-height-large">Lachlan Smith<br><span class="orange-text"> &#39;<em>LockSmith47&#39;</em></span></h2>              
               <h3 align="center">Lead Programmer &ndash; Game Design</h3>
               <hr>                           
-              <p>Lachlan is currently studying Electrical Engineering and Computer Science at Monash University. When not laboriously studying he enjoys heading down to the surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
+              <p style="text-align: justify;">Lachlan is currently studying Electrical Engineering and Computer Science at Monash University. When not laboriously studying he enjoys heading down to the surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
               <br>
               <h4 align="center">Likes &ndash; Tau Cannon</h4>  
             </div>
@@ -70,13 +70,14 @@
       </div>
       <div class="row">
         <div class="col-sm-12">
-          <div class="flat-panel blue-light">
+          <div class="flat-panel">
             <div class="panel-body percent-padding" style="text-align:center;">
               <h2 class="bold uppercase zero-text-margin">Contact Us</h2>
               <hr>
               <div style="text-align:center;">
                 <p>Send us an email directly at: 
-                  <a href="mailto:ledpalmtree@gmail.com" target="_top">ledpalmtree@gmail.com</a>
+                  <a href="mailto:ledpalmtree@gmail.com" target="_top">ledpalmtree@gmail.com</a><br>
+                  Or contact us through our <a href="https://www.facebook.com/LEDpalmtree/">Facebook Page</a>
                 </p>
               </div>
             </div>

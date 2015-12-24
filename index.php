@@ -5,12 +5,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>Welcome!</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/theme.css" rel="stylesheet">
+    <style>
+      html {
+        height:100%;
+      }
+      body {
+        height:100%;
+        background: #212121; /* For browsers that do not support gradients */
+        background: -webkit-linear-gradient(#353535, black) fixed; /* For Safari 5.1 to 6.0 */
+        background: -o-linear-gradient(#353535, black) fixed; /* For Opera 11.1 to 12.0 */
+        background: -moz-linear-gradient(#353535, black) fixed; /* For Firefox 3.6 to 15 */
+        background: linear-gradient(#353535, black) fixed; /* Standard syntax */
+      }  
 
+      #index-logo {
+        width: 80%;
+      } 
+
+      .vertical-center {
+        min-height: 100%;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        display: -webkit-flex; /* For Safari */
+        -webkit-justify-content: center; /* For Safari */
+        -webkit-align-items: center; /* For Safari */
+      }
+    </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -20,74 +49,35 @@
 
   </head>
   <body>
-    <?php
-     $page = 'home';
-     include("header.php"); 
-     ?>
-    <div class="container contents">
-      <div id="myCarousel" class="carousel slide" data-ride="carousel" >
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-          <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
-      
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner" role="listbox">
-          <div class="item active">
-            <img src="assets/anaconda_screen.png" alt="Anaconda" class="carouselImage">
-          </div>
-      
-          <div class="item">
-            <img src="assets/code_breaker.png" alt="Code Breaker" class="carouselImage">
-          </div>
-      
-          <div class="item">
-            <img src="assets/treasure_fusion.png" alt="Treasure Fusion" class="carouselImage">
-          </div>
-
-        </div>
-      
-        <!-- Left and right controls -->
-        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-      <div class="row">
-        <div class="col-sm-6">
-          <div class="panel panel-default">
-            <div class="panel-body" style="height:200px;">A Basic Panel <br> Also lots of other stydff</div>
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="panel panel-default">
-            <div class="panel-body">A Basic Panel <br> Also lots of other stydff</div>
-          </div>
-          <div class="panel panel-default">
-            <div class="panel-body">A Basic Panel <br> Also lots of other stydff</div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-sm-11">
-          <div class="panel panel-default">
-            <div class="panel-body" style="height:150px;">A Basic Panel <br> Also lots of other stydff</div>
-          </div>
-        </div>
+    <div class="container vertical-center">
+      <img src="/LED-Palmtree-Website/assets/Logo.png" id="index-logo">
+      <div>
+        <ul class="nav navbar-nav navbar-right">
+        <li><a href="/LED-Palmtree-Website/projects.php">Projects</a></li>
+        <li><a href="/LED-Palmtree-Website/blog.php">Blog</a></li>
+        <li><a href="/LED-Palmtree-Website/about.php">About</a></li>
+        <li><a href="#" class="art-dropdown">Design</a></li>
+      </ul>
       </div>
     </div>
-    <?php
-      include("footer.php"); 
-     ?>
+
+
+    
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+    <script>
   </body>
+
+  .col-lg-4, .col-lg-8 {
+    float:none;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:-4px;
+}
+
+<!-- class="center-block"-->
 </html>
+
