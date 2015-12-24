@@ -11,11 +11,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/theme.css" rel="stylesheet">
     <style>
-      html {
-        height:100%;
-      }
       body {
-        height:100%;
         background: #212121; /* For browsers that do not support gradients */
         background: -webkit-linear-gradient(#353535, black) fixed; /* For Safari 5.1 to 6.0 */
         background: -o-linear-gradient(#353535, black) fixed; /* For Opera 11.1 to 12.0 */
@@ -38,6 +34,34 @@
         -webkit-justify-content: center; /* For Safari */
         -webkit-align-items: center; /* For Safari */
       }
+
+      .home-list {
+        background: none;
+        width: 100%;
+      }
+
+      .home-list li {
+        text-align: center;
+        margin-bottom: 13%;
+      }
+
+      .home-list li a {
+        font-family: "Montserrat";
+        color: #9d9d9d;
+        font-size: 1.5em;
+      }
+
+      .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+      background-color: black;
+      color: white;
+      }
+
+      hr {
+        border-color: #9d9d9d;
+        width:100%;
+        margin-top: 2%;
+        margin-bottom: 4%;
+      }
     </style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -50,15 +74,14 @@
   </head>
   <body>
     <div class="container vertical-center">
-      <img src="/LED-Palmtree-Website/assets/Logo.png" id="index-logo">
-      <div>
-        <ul class="nav navbar-nav navbar-right">
-        <li><a href="/LED-Palmtree-Website/projects.php">Projects</a></li>
-        <li><a href="/LED-Palmtree-Website/blog.php">Blog</a></li>
-        <li><a href="/LED-Palmtree-Website/about.php">About</a></li>
-        <li><a href="#" class="art-dropdown">Design</a></li>
+      <img src="assets/Logo.png" id="index-logo">
+      <hr>
+      <ul class="nav navbar-nav home-list">
+        <li class="col-sm-3"><a href="projects.php">Projects</a></li>
+        <li class="col-sm-3"><a href="blog.php">Blog</a></li>
+        <li class="col-sm-3"><a href="about.php">About</a></li>
+        <li class="col-sm-3"><a href="design/index.php">Design</a></li>
       </ul>
-      </div>
     </div>
 
 
@@ -67,17 +90,7 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script>
+    <script src="../js/bootstrap.min.js"></script>
   </body>
-
-  .col-lg-4, .col-lg-8 {
-    float:none;
-    display:inline-block;
-    vertical-align:middle;
-    margin-right:-4px;
-}
-
-<!-- class="center-block"-->
 </html>
 
