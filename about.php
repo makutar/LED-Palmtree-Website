@@ -34,7 +34,7 @@
               <div style="text-align:left;">
                 <p>LEDPalmtree is a Melbourne/Geelong based independent design studio consisting of two brothers, Lachlan and Josh Smith.</p>
                 <p>Avid gamers from an early age, there was always a new Flash game in the works at LEDPalmtree HQ. Nowadays they have broadened their sights and are currently working with web development, native android applications and have a new game in the works.</p>
-                <p>Recently LEDPalmtree, in collaboration with Will Donohoe and Rob Koch, attended UniHack 2015 and received the &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
+                <p>Recently LEDPalmtree, in collaboration with <a href='will.io'>Will Donohoe</a> and Rob Koch, attended <a href='http://unihack.net/archive/2015/'>UniHack 2015</a> and received IMC's &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
                 </div>
             </div>
           </div>
@@ -48,9 +48,7 @@
               <h2 align="center" class="uppercase line-height-large">Lachlan Smith<br><span class="orange-text"> &#39;<em>LockSmith47&#39;</em></span></h2>              
               <h3 align="center">Lead Programmer &ndash; Game Design</h3>
               <hr>                           
-              <p style="text-align: justify;">Lachlan is currently studying Electrical Engineering and Computer Science at Monash University. When not laboriously studying he enjoys heading down to the surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
-              <br>
-              <h4 align="center">Likes &ndash; Tau Cannon</h4>  
+              <p style="text-align: justify;">Lachlan is LEDPalmtree's resident coder. He is currently studying Electrical Engineering and Computer Science at Monash University. When not hard at work he enjoys heading down to the beach to surf and beating his brother at Black Mesa. Over the summer he will be conducting computer graphics research at UCSD, in San Diego.</p>
             </div>
           </div>
         </div>
@@ -59,11 +57,10 @@
             <div class="panel-body watch">
               <img src="assets/tony-abbott-square-2.jpg" class="img-responsive img-circle center-block" style="width:65%;">
               <h2 align="center" class="uppercase line-height-large">Joshua Smith<br><span class="green-text"> &#39;<em>Makutar&#39;</em></span></h2>              
-              <h3 align="center">Art - Graphic Design &ndash; Game mechanics</h3>
+              <h3 align="center">Art - Web Design - Graphic Design </h3>
               <hr>              
-              <p style="text-align: justify;">Josh is currently studying Mechanical engineering and Industrial design at Monash University. &nbsp;He is always trying his hand at some creative project, often seen in some form of woodwork, visual arts or cello in addition to digital media. For recreation Josh enjoys working his way through a steady backlog of steam games or playing tennis.</p>              
-              <br>              
-              <h4 align="center">Likes - Peripherals, Cold Drip &nbsp; Dislikes:</h4>
+              <p style="text-align: justify;">Joshua handles the visual side of LEDPalmtree. Like his brother, he also attends Monash University, studying Mechanical Engineering and Industrial Design.
+              He always has a project in the works, ranging from woodwork to digital art. A selection can be found through the <a href="design/">design</a> tab.</p>                          
             </div>
           </div>
         </div>
@@ -72,7 +69,7 @@
         <div class="col-sm-12">
           <div class="flat-panel">
             <div class="panel-body percent-padding" style="text-align:center;">
-              <h2 class="bold uppercase zero-text-margin">Contact Us</h2>
+              <h2 class="bold uppercase zero-text-margin blue-text">Contact Us</h2>
               <hr>
               <div style="text-align:center;">
                 <p>Send us an email directly at: 

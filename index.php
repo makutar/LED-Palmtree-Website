@@ -77,8 +77,8 @@
       <img src="assets/Logo.png" id="index-logo">
       <hr>
       <ul class="nav navbar-nav home-list">
-        <li class="col-sm-3"><a href="projects.php">Projects</a></li>
-        <li class="col-sm-3"><a href="blog.php">Blog</a></li>
+        <li class="col-sm-3"><a href="projects/">Projects</a></li>
+        <li class="col-sm-3"><a href="blog/">Blog</a></li>
         <li class="col-sm-3"><a href="about.php">About</a></li>
         <li class="col-sm-3"><a href="design/index.php">Design</a></li>
       </ul>

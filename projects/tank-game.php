@@ -50,7 +50,8 @@
                 <h2 class="uppercase zero-text-margin blue-text">Tank Game</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Feb 2014</h3>
-                <p>This small flash experiment was inspired by the Wii Tank game on Wii Play.</p>
+                <p>WIP: Tentatively named 'Tank Game' this project is probably our largest undertaking. Inspired by the 'Tanks' minigame on Wii Play, we aimed to further develop the gameplay ideas presented. It features an inbuilt map editor (which you can test live) and 7 playable levels.
+                <br><br> <i>Please note that this version contains many bugs and unfinished features. If you get stuck you might need to refresh the page.</i></p>
                 </div>
               </div>
           </div>

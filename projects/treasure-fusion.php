@@ -50,8 +50,8 @@
                 <h2 class="uppercase zero-text-margin orange-text">Treasure Fusion</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">March 2014</h3>
-                <p>Unlock new gems and challenge your friends in this addictive new puzzle game! Inspired by 2048, combine similar treasures to create new combinations!</p>
-                </div>
+                <p>Inspired by 2048, this game replaces the classic numbers with treasure, and adds a few more game modes. Along with being our most popular game, this is also the first game we've released onto Android and iOS using Adobe AIR. </p>
+              </div>
             </div>
           </div>
         </div>

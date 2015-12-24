@@ -51,7 +51,7 @@
                 <h2 class="uppercase zero-text-margin green-text">Infinite Asteroids</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">July 2009</h3>
-                <p>A modern take on the classic arcade game, testing a new particle engine.</p>
+                <p>A fairly early endeavor at flash development. This game was a quick mockup to showcase a particle engine. Its gameplay is reminiscent of the classic arcade game Asteroids.</p>
                 </div>
               </div>
           </div>

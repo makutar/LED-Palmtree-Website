@@ -142,6 +142,10 @@ p {
     color : white
 }
 
+.blue-light a {
+    color: #cce8ff;
+}
+
 .black {
     color : white;
     background-color: black;
@@ -169,6 +173,10 @@ p {
 
 .blue-text{
     color :#195daf
+}
+
+.blue-text-light{
+    color: #cce8ff;
 }
 
 .green-text{

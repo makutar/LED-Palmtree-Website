@@ -21,7 +21,7 @@ $root = "/LED-Palmtree-Website/";
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li class="<?php echo ($page == "home" ? "active" : "")?>"><a href="<?php echo $root."index.php"?>">Home<span class="sr-only">(current)</span></a></li>
-        <li class="<?php echo ($page == "projects" ? "active" : "")?>"><a href="<?php echo $root."projects.php"?>">Projects</a></li>
+        <li class="<?php echo ($page == "projects" ? "active" : "")?>"><a href="<?php echo $root."projects/"?>">Projects</a></li>
         <li class="<?php echo ($page == "blog" ? "active" : "")?>"><a href="<?php echo $root."blog/"?>">Blog</a></li>
         <li class="<?php echo ($page == "about" ? "active" : "")?>"><a href="<?php echo $root."about.php"?>">About</a></li>
         <li class="dropdown <?php echo ($page == "design" ? "active" : "")?>">

@@ -50,8 +50,8 @@
                 <h2 class="uppercase zero-text-margin green-text">Anaconda</h2>
                 <hr class="margin-10">  
                 <h3 class="zero-text-margin grey-text">Dec 2014</h3>
-                <p> Back in 2002 a game called Anaconda was released within Free Radical Design’s Timesplitters 2. Due to the current lack of next gen availability of the game we have created a new and improved homage ready to be enjoyed by a new generation of gamers. </p>
-                </div>
+                <p> This game is a flash remake of one of our favourite minigames, found in Timesplitters 2. We strived to achieve the same gameplay as the original and also added a few extra modes. Listen out for the 100% MIDI remix of the original song courtesy of Josh.</div>  
+              </div>
             </div>
           </div>
         </div>
