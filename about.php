@@ -55,7 +55,7 @@
         <div class="col-sm-6">
           <div class="flat-panel" style="min-height: 700px;">
             <div class="panel-body watch">
-              <img src="assets/tony-abbott-square-2.jpg" class="img-responsive img-circle center-block" style="width:65%;">
+              <img src="assets/josh-bio.jpg" class="img-responsive img-circle center-block" style="width:65%;">
               <h2 align="center" class="uppercase line-height-large">Joshua Smith<br><span class="green-text"> &#39;<em>Makutar&#39;</em></span></h2>              
               <h3 align="center">Art - Web Design - Graphic Design </h3>
               <hr>              
