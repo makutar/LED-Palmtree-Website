@@ -34,7 +34,7 @@
               <div style="text-align:left;">
                 <p>LEDPalmtree is a Melbourne/Geelong based independent design studio consisting of two brothers, Lachlan and Josh Smith.</p>
                 <p>Avid gamers from an early age, there was always a new Flash game in the works at LEDPalmtree HQ. Nowadays they have broadened their sights and are currently working with web development, native android applications and have a new game in the works.</p>
-                <p>Recently LEDPalmtree, in collaboration with <a href='will.io'>Will Donohoe</a> and Rob Koch, attended <a href='http://unihack.net/archive/2015/'>UniHack 2015</a> and received IMC's &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
+                <p>Recently LEDPalmtree, in collaboration with <a href='http://will.io'>Will Donohoe</a> and Rob Koch, attended <a href='http://unihack.net/archive/2015/'>UniHack 2015</a> and received IMC's &lsquo;Making Things Happen Award&rsquo; for CodeBreaker.&nbsp;</p>
                 </div>
             </div>
           </div>

@@ -61,9 +61,7 @@
             </div>
             <div class="play-div">
               <div class= "playGradient">
-              <form role="form" action="anaconda.php" method="get">
-                <button type="submit" class="btn btn-primary play-button">Play</button> 
-              </form>
+                <a href="anaconda.php" class="btn btn-primary play-button" role="button">Play</a>
               </div>
             </div>
           </div>
@@ -85,9 +83,7 @@
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <form role="form" action="treasure-fusion.php" method="get">
-                <button type="submit" class="btn btn-primary play-button">Play</button> 
-              </form> 
+              <a href="treasure-fusion.php" class="btn btn-primary play-button" role="button">Play</a>
               </div>
             </div>
           </div>
@@ -110,9 +106,7 @@
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <form role="form" action="tank-game.php" method="get">
-                <button type="submit" class="btn btn-primary play-button">Play</button> 
-              </form> 
+                <a href="tank-game.php" class="btn btn-primary play-button" role="button">Play</a>
               </div>
             </div>
           </div>
@@ -134,8 +128,7 @@
             </div>
              <div class="play-div">
               <div class= "playGradient">
-                <form role="form" action="infinite-asteroids.php" method="get">
-                <button type="submit" class="btn btn-primary play-button">Play</button> 
+                <a href="infinite-asteroids.php" class="btn btn-primary play-button" role="button">Play</a>
               </form> 
               </div>
             </div>

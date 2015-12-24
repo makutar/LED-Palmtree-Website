@@ -339,4 +339,6 @@ p {
     height:50px;
     width:120px;
     border-radius: 0;
+    line-height: 36px;
+    vertical-align: middle;
 }
